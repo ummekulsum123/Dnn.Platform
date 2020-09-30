@@ -1,4 +1,4 @@
-## DNN Platform
+## DNN Platform an amazing.
 DNN Platform utilizes components that were developed by third-party entities. Some of these are used directly from source code while others are referenced as libraries.
 
 ## Third Party Source Code
